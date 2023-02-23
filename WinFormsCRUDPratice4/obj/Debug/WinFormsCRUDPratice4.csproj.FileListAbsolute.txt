@@ -1,0 +1,10 @@
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\bin\Debug\WinFormsCRUDPratice4.exe.config
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\bin\Debug\WinFormsCRUDPratice4.exe
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\bin\Debug\WinFormsCRUDPratice4.pdb
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.Form1.resources
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.Properties.Resources.resources
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.csproj.GenerateResource.cache
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.csproj.CoreCompileInputs.cache
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.exe
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.pdb
+C:\Users\HDC\source\repos\WinFormsCRUDPratice4\WinFormsCRUDPratice4\obj\Debug\WinFormsCRUDPratice4.csproj.AssemblyReference.cache
